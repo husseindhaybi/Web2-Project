@@ -98,8 +98,30 @@ function Home() {
           </Button>
         </div>
       </Container>
+          
+          
 
-      
+           <div className="bg-light py-5">
+        <Container>
+          <Row className="text-center">
+            <Col md={4}>
+              <i className="bi bi-star-fill text-warning mb-3" style={{ fontSize: "80px" }}></i>
+              <h4>Premium Quality</h4>
+              <p>Fresh ingredients sourced daily</p>
+            </Col>
+            <Col md={4}>
+              <i className="bi bi-truck text-primary mb-3" style={{ fontSize: "80px" }}></i>
+              <h4>Fast Delivery</h4>
+              <p>Hot food delivered to your door</p>
+            </Col>
+            <Col md={4}>
+              <i className="bi bi-person-badge text-success mb-3" style={{ fontSize: "80px" }}></i>
+              <h4>Expert Chefs</h4>
+              <p>Prepared by culinary masters</p>
+            </Col>
+          </Row>
+        </Container>
+      </div>
     </div>
   );
 }
