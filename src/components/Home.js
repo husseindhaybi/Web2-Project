@@ -70,6 +70,36 @@ function Home() {
           </Row>
         </Container>
       </div>
+
+      <Container className="my-5">
+        <h2 className="text-center mb-5">Featured Dishes</h2>
+        <Row>
+          {featuredDishes.map((dish) => (
+            <Col md={4} key={dish.id} className="mb-4">
+              <Card className="h-100 shadow-sm">
+                <Card.Img
+                  variant="top"
+                  src={dish.image}
+                  alt={dish.name}
+                  style={{ height: "250px", objectFit: "cover" }}
+                />
+                <Card.Body>
+                  <Card.Title>{dish.name}</Card.Title>  
+                  <Card.Text>{dish.description}</Card.Text>
+                  <h5 className="text-warning">${dish.price}</h5>
+                </Card.Body>
+              </Card>
+            </Col>
+          ))}
+        </Row>
+        <div className="text-center mt-4">
+          <Button as={Link} to="/menu" variant="primary" size="lg">
+            See Full Menu
+          </Button>
+        </div>
+      </Container>
+
+      
     </div>
   );
 }
