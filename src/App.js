@@ -34,7 +34,7 @@ function App() {
             <Route path="/order-tracking" element={<OrderTracking />} />
           </Routes>
         </main>
-        
+        <Footer />
       </div>
     </Router>
   );
