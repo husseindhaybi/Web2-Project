@@ -1,5 +1,6 @@
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import { useState } from "react";
+import { Button, Card, Col, Container, Form, Row } from "react-bootstrap";
 
 function Contact() {
   const [formData, setFormData] = useState({
@@ -138,7 +139,6 @@ function Contact() {
         </Col>
       </Row>
     </Container>
- 
   );
 }
 

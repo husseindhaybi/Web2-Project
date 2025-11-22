@@ -55,8 +55,6 @@ function About() {
         </Row>
       </div>
 
-      
-
       <Card className="shadow">
         <Card.Body>
           <h3 className="mb-4">Opening Hours</h3>

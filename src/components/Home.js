@@ -1,5 +1,8 @@
 import 'bootstrap-icons/font/bootstrap-icons.css';
+import { Button, Card, Col, Container, Row } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import BeefBurger from '../data/assets/BeefBurger.jpg';
+import restaurent from '../data/assets/Restaurent.jpeg';
 import salad from '../data/assets/Salad.jpg';
 import Salamon from '../data/assets/Salamon.jpg';
 import "../styles/home.css";
@@ -29,9 +32,9 @@ function Home() {
     },
   ];
 
-  return(
+  return (
     <div className="home-page">
-        <div className="hero-section">
+      <div className="hero-section">
         <Container>
           <Row className="align-items-center min-vh-50">
             <Col lg={6}>
@@ -98,10 +101,8 @@ function Home() {
           </Button>
         </div>
       </Container>
-          
-          
 
-           <div className="bg-light py-5">
+      <div className="bg-light py-5">
         <Container>
           <Row className="text-center">
             <Col md={4}>
@@ -125,4 +126,5 @@ function Home() {
     </div>
   );
 }
+
 export default Home;

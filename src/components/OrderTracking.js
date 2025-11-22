@@ -1,5 +1,5 @@
-import { useEffect, useState } from "react";
-import { Card, Container, ProgressBar } from "react-bootstrap";
+import { useState, useEffect } from "react";
+import { Container, Card, ProgressBar } from "react-bootstrap";
 
 function OrderTracking() {
   const [orderId] = useState(

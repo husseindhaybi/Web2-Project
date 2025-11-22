@@ -1,3 +1,4 @@
+// Import images - with correct file names from assets folder
 import BeefBurger from './assets/BeefBurger.jpg';
 import BeefSteak from './assets/BeefSteak.jpg';
 import Cheesecake from './assets/Cheesecake.jpg';
@@ -13,7 +14,7 @@ import Salamon from './assets/Salamon.jpg';
 import SpringRolls from './assets/SpringRolls.jpg';
 
 const menuData = [
- 
+  // Appetizers
   {
     id: 1,
     name: "Spring Rolls",
@@ -39,7 +40,7 @@ const menuData = [
     description: "Golden fried mozzarella with marinara sauce",
   },
 
-  
+  // Main Courses
   {
     id: 4,
     name: "Grilled Salmon",
@@ -81,7 +82,7 @@ const menuData = [
     description: "Prime ribeye steak with garlic butter",
   },
 
-  
+  // Desserts
   {
     id: 9,
     name: "Chocolate Cake",
@@ -107,7 +108,7 @@ const menuData = [
     description: "Vanilla ice cream with chocolate sauce and nuts",
   },
 
-  
+  // Drinks
   {
     id: 12,
     name: "Fresh Orange Juice",

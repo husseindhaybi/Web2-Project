@@ -22,7 +22,6 @@ function NavBar({ cartCount }) {
               <i className="bi bi-book-fill me-1"></i>
               Menu
             </Nav.Link>
-            
             <Nav.Link as={Link} to="/about">
               <i className="bi bi-info-circle-fill me-1"></i>
               About

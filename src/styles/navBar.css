@@ -1,8 +1,7 @@
-.menu-card {
-  transition: all 0.3s ease;
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.menu-card:hover {
-  transform: translateY(-10px);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+.cart-link {
+  position: relative;
 }
