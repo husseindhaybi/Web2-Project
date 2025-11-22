@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Web2-Project/static/css/main.83abd33a.css",
+    "main.js": "/Web2-Project/static/js/main.4d0d2502.js",
+    "static/js/496.4882198f.chunk.js": "/Web2-Project/static/js/496.4882198f.chunk.js",
+    "static/media/Cheesecake.jpg": "/Web2-Project/static/media/Cheesecake.65389846057ac76aba6e.jpg",
+    "static/media/bootstrap-icons.woff?": "/Web2-Project/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/Restaurent.jpeg": "/Web2-Project/static/media/Restaurent.4b68294d02bba3ae627a.jpeg",
+    "static/media/bootstrap-icons.woff2?": "/Web2-Project/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/ChickenWings.jpg": "/Web2-Project/static/media/ChickenWings.9e21f68ece31b6b10877.jpg",
+    "static/media/IceCreamSundae.jpg": "/Web2-Project/static/media/IceCreamSundae.21d556245a276d3158c4.jpg",
+    "static/media/SpringRolls.jpg": "/Web2-Project/static/media/SpringRolls.560fb87aaf9c46676c81.jpg",
+    "static/media/Salamon.jpg": "/Web2-Project/static/media/Salamon.e090258451a10ce1ae41.jpg",
+    "static/media/IcedCoffee.jpg": "/Web2-Project/static/media/IcedCoffee.d60f5ca860a4ef11897c.jpg",
+    "static/media/MargheritaPizza.jpg": "/Web2-Project/static/media/MargheritaPizza.2399454514e61a65e618.jpg",
+    "static/media/FreshOrangeJuice.jpg": "/Web2-Project/static/media/FreshOrangeJuice.f981d5efeeb78b4cca88.jpg",
+    "static/media/BeefSteak.jpg": "/Web2-Project/static/media/BeefSteak.cab01171c917ed168b66.jpg",
+    "static/media/Salad.jpg": "/Web2-Project/static/media/Salad.cea86af4166a4e83ed28.jpg",
+    "static/media/MozzarellaSticks.jpg": "/Web2-Project/static/media/MozzarellaSticks.d2c8d09dc7c0971d663c.jpg",
+    "static/media/ChocolateCake.jpg": "/Web2-Project/static/media/ChocolateCake.863b450ae25e8db47723.jpg",
+    "static/media/BeefBurger.jpg": "/Web2-Project/static/media/BeefBurger.c5cf2d7f476e1679bd3b.jpg",
+    "static/media/ChickenAlfredo.jpg": "/Web2-Project/static/media/ChickenAlfredo.1e2cbd58dfe26ded208e.jpg",
+    "index.html": "/Web2-Project/index.html",
+    "main.83abd33a.css.map": "/Web2-Project/static/css/main.83abd33a.css.map",
+    "main.4d0d2502.js.map": "/Web2-Project/static/js/main.4d0d2502.js.map",
+    "496.4882198f.chunk.js.map": "/Web2-Project/static/js/496.4882198f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83abd33a.css",
+    "static/js/main.4d0d2502.js"
+  ]
+}
